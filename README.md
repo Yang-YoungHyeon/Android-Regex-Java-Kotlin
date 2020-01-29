@@ -7,9 +7,7 @@
     YHPattern.IPv4("255.255.255.255"); // true
     YHPattern.IPv4("0.0.0.256"); // false
 ```
-
-<img src="https://user-images.githubusercontent.com/58409497/73407758-77c9c780-433d-11ea-9332-cd99de606d83.png"
->
+![정규식](https://user-images.githubusercontent.com/58409497/73407758-77c9c780-433d-11ea-9332-cd99de606d83.png)
 
 
 ## /** Getter List */
