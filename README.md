@@ -1,7 +1,14 @@
 # Android-JAVA-Regex-Pattern
-Android/JAVA/Regex/Pattern
+- This is a regular menu available on Android.
 
-##/** Getter List */
+## How to use Getter
+```
+    YHPattern.IPv4("0.0.0.0"); // true
+    YHPattern.IPv4("255.255.255.255"); // true
+    YHPattern.IPv4("0.0.0.256"); // false
+```
+
+## /** Getter List */
 ```
     //IP Address IPv4 Example ( 0.0.0.0 ~ 255.255.255.255 )
     public static boolean IP_Address_IPv4(String input) { return Pattern.matches(IPv4, input); }
