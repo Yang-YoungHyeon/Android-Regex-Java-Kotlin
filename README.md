@@ -1,5 +1,5 @@
 # Android-JAVA-Regex-Pattern
-- This is a regular menu available on Android.
+- This is a regular expression available on Android.
 
 ## How to use Getter
 ```
