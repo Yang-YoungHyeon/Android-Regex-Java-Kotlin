@@ -1,4 +1,4 @@
-# Android-JAVA-Regex-Pattern
+# Android-Regex
 - This is a regular expression available on Android.
 
 ## How to use Getter
