@@ -1,8 +1,8 @@
 /* < Do not modify or delete this class >
-* FileName : YHPattern.java
+* FileName : YHPattern.kt
 * Date : 2020.01.29
 * Name : Yang-younghyeon
-* Using Android(Java) Regex Check. */
+* Using Android(Kotlin) Regex Check. */
 package com.sample.Regex
 
 import java.util.regex.Pattern
